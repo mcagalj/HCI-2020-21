@@ -81,7 +81,7 @@ Student će također pripremiti kratak izvještaj o realiziranom projektu (primj
 ## Demonstracija projekta - tehnički zahtjevi
 
 - Studenti će pokazati optimiziranu produkcijsku verziju projekta; u tom smislu [Gatsby.js](https://www.gatsbyjs.org) će za vas odraditi _heavy lifting_ na projektu
-- Produkcijska verzija projekta treba biti postavljena _online_ na odgovarajuću _cloud_ platformu ([Netlify](https://www.netlify.com/), [Heroku](https://www.heroku.com/), [Azure](https://azure.microsoft.com), ...)
+- Produkcijska verzija projekta treba biti postavljena _online_ na odgovarajuću _cloud_ platformu ([Netlify](https://www.netlify.com/), [Heroku](https://www.heroku.com/), [Azure](https://azure.microsoft.com))
 - Studenti analizirati performanse aplikacije korištenjem odgovarajućih alata (npr. [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/), [Webpagetest](https://www.webpagetest.org/))
 
 ## Praktičan uvod u Git, JavaScript, React i Gatsby
